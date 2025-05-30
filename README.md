@@ -8,7 +8,7 @@ Rethink Chapters adds depth with over 100 levels across more than 20 chapters, o
 ## Menu
 
 - [Credits](#credits)  
-- [Custom Sprite Contributions](#custom-sprite-contributions)  
+- [Custom Sprites Contributions](#custom-sprites-contributions)  
 - [Project Details](#project-details)  
 - [Releases](#releases)  
 - [Thank You](#thank-you)  
@@ -21,7 +21,7 @@ Rethink Chapters adds depth with over 100 levels across more than 20 chapters, o
 - Xang
 
 **Helpers**  
-- Prezes  
+- Prezes (TheTrueZiomal1458)  
 - Siddown
 
 **Illustration**  
@@ -29,10 +29,10 @@ Rethink Chapters adds depth with over 100 levels across more than 20 chapters, o
 
 ---
 
-## Custom Sprite Contributions
+## Custom Sprites Contributions
 
 - Xang  
-- Prezes  
+- Prezes (TheTrueZiomal1458)  
 - NotSoDogNinja
 
 ---
