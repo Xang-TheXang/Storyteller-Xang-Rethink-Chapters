@@ -1,43 +1,40 @@
-# 🎉 Rethink Chapters – Custom Chapters for *Storyteller*  
-**Created by Xang**
+# The Rethink Chapters  
+Created by Xang
 
-Dive into a fresh set of handcrafted chapters for *Storyteller*, featuring brand-new stories, creative twists, and over 130 custom challenges.
+Rethink Chapters adds depth with over 100 levels across more than 20 chapters, offering fresh and engaging content to explore.
 
 ---
 
-## 📜 General Credits
+## Credits
 
-**Creators**  
+**Creator**  
 - Xang
 
 **Helpers**  
 - Prezes  
 - Siddown
 
-**Illustrations By**  
+**Illustration**  
 - Xang
 
 ---
 
-## 🎨 Custom Sprites Credits
+## Custom Sprite Contributions
 
-**Contributors**  
 - Xang  
 - Prezes  
 - NotSoDogNinja
 
 ---
 
-## 🧩 Chapter Stats
+## Project Details
 
-- **Total Levels:** 133  
-- **Current Version:** 8.2.1.1
-
----
-
-## 🙏 Final Note
-
-Thank you for playing and supporting this project.  
-Chapters created with care and passion by **Xang**.
+- Total levels: 133  
+- Version: 8.2.1.1
 
 ---
+
+## Thank You
+
+Thanks for playing The Rethink Chapters.  
+— Xang
