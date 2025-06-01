@@ -40,7 +40,7 @@ Rethink Chapters adds depth with over 100 levels across more than 20 chapters, o
 ## Rethink Chapters Information
 
 - Total levels: 133  
-- Version: 8.2.1.1
+- Version: 8.2.3
 
 ---
 
