@@ -1,4 +1,4 @@
-# The Rethink Chapters  
+# The Rethink Chapters (OLD VERSIONS) 
 Created by Xang
 
 Rethink Chapters adds depth with over 100 levels across more than 20 chapters, offering fresh and engaging content to explore.
